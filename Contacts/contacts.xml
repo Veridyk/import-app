@@ -1,0 +1,9 @@
+<contact>
+    <email>test@example.cz</email>
+    <firstName>Tester</firstName>
+    <lastName>Test</lastName>
+    <sex>0</sex>
+    <phone>777555444</phone>
+    <company>Test company</company>
+    <salutation>Hello</salutation>
+</contact>
